@@ -1,0 +1,11 @@
+{
+    "table_name": "table_utopia",
+    "column_list": "uto_col1,uto_col2,uto_col3",
+    "base_path": "/base/main",
+    "backup_path": "/base/backup",
+    "log_table": "DB.LOG_TABLE",
+    "year": "*",
+    "month": "*",
+    "day": "*",
+    "special_character": "\r"
+}

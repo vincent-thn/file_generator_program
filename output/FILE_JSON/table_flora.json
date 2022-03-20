@@ -1,0 +1,11 @@
+{
+    "table_name": "table_flora",
+    "column_list": "flo_col1,flo_col2,flo_col3",
+    "base_path": "/base/main",
+    "backup_path": "/base/backup",
+    "log_table": "DB.LOG_TABLE",
+    "year": "*",
+    "month": "*",
+    "day": "*",
+    "special_character": "\r"
+}

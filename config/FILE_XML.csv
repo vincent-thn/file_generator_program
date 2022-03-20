@@ -1,0 +1,7 @@
+﻿SRC_CONN,TGT_CONN,SRC_DB,TGT_DB,SRC_TABLE,TGT_TABLE,COLUMN_NAME
+my_db_conn,dummy_db_conn,my_schema,dummy_schema,table_utopia,table_utopian,uto_col1
+my_db_conn,dummy_db_conn,my_schema,dummy_schema,table_utopia,table_utopian,uto_col2
+my_db_conn,dummy_db_conn,my_schema,dummy_schema,table_utopia,table_utopian,uto_col3
+my_db_conn,dummy_db_conn,my_schema,dummy_schema,table_flora,table_floran,flo_col1
+my_db_conn,dummy_db_conn,my_schema,dummy_schema,table_flora,table_floran,flo_col2
+my_db_conn,dummy_db_conn,my_schema,dummy_schema,table_flora,table_floran,flo_col3

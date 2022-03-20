@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root version="2.0" xmlns="http://www.informatica.com/Parameterization/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema">
+   <project name="PROJECT_FALCON">
+      <workflow name="WF_FALCON">
+         <parameter name="SRC_CONN">my_db_conn</parameter>
+         <parameter name="TGT_CONN">dummy_db_conn</parameter>
+         <parameter name="SRC_DB">my_schema</parameter>
+         <parameter name="TGT_DB">dummy_schema</parameter>
+         <parameter name="SRC_TABLE">table_utopia</parameter>
+         <parameter name="TGT_TABLE">table_utopian</parameter>
+         <parameter name="KEY">ABC123</parameter>
+         <parameter name="EMAIL_ADDRESS">user@email.com</parameter>
+      </workflow>
+      <mapping name="WF_FALCON">
+         <parameter name="COLUMNS">uto_col1, uto_col2, uto_col3</parameter>
+      </mapping>
+   </project>
+</root>
